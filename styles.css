@@ -1,0 +1,30 @@
+.blockr {
+  width: 30%;
+  background: #d69311;
+  color: whitesmoke;
+  padding: 20px;
+  margin-left: auto;
+}
+
+.blockl {
+  width: 30%;
+  background: tomato;
+  color: yellow;
+  padding: 20px;
+  margin-right: auto;
+  margin-top: -8%;
+}
+
+.blockc {
+  width: 25%;
+  background: green;
+  color: blue;
+  margin: auto;
+  margin-top: -8%;
+
+}
+
+p {
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
